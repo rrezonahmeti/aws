@@ -1,0 +1,2 @@
+C:\Users\rrezon_a\source\repos\aws\aws\obj\Debug\aws.csproj.AssemblyReference.cache
+C:\Users\rrezon_a\source\repos\aws\aws\obj\Debug\aws.csproj.CoreCompileInputs.cache
